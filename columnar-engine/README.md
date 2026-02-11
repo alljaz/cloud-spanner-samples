@@ -7,9 +7,8 @@ The Columnar Engine is designed to accelerate analytical query performance (OLAP
 In the instructions below, we will:
 
 1.  Create a Spanner database with the target schema and load benchmark dataset.
-2.  Convert dataset fully into columnar format.
-3.  Run the provided analytical queries to measure performance.
-4.  Observe the benefits of the Columnar Engine on typical analytical workloads.
+2.  Convert the data fully into columnar format.
+3.  Run the provided analytical queries and observe the benefits of the Columnar Engine.
 
 ## Before you begin
 
