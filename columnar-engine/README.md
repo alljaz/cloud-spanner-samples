@@ -1,6 +1,6 @@
 # Spanner Columnar Engine Benchmark
 
-This repository provides the schema and queries to benchmark the performance of [Cloud Spanner Columnar Engine](https://cloud.google.com/spanner/docs/columnar-engine). By running these analytical queries, you can compare query latency and efficiency with and without the columnar engine enabled, using a public dataset.
+This repository provides the schema and queries to benchmark the performance of [Spanner Columnar Engine](https://cloud.google.com/spanner/docs/columnar-engine). By running these analytical queries, you can compare query latency and efficiency with and without the Columnar Engine enabled, using a public dataset.
 
 The Columnar Engine is designed to accelerate analytical query performance (OLAP) on your data in Spanner, often by orders of magnitude. This is achieved by a combination of columnar storage and vectorized execution.
 
